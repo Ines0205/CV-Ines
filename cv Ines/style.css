@@ -1,0 +1,9 @@
+.jsa { 
+    display: flex;
+    justify-content:flex-end ;
+
+}
+.div { 
+    display: flex;
+    justify-content: space-between;
+}
